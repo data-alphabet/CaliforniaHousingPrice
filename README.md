@@ -9,7 +9,7 @@ I try to visulize the geographic information by the Excel plug-in —— PowerMa
 
 - DownloadData.py
 
-It is a module to fetch dataset's raw file from https://raw.githubusercontent.com/ageron-ml/master/datasets/housing/housing.tgz . This module mainly solve problems in data fetching and storing. It used Python's os, tarfile and six.moves.urlib!
+It is a module to fetch dataset's raw file from https://raw.githubusercontent.com/ageron/handson-ml/master/datasets/housing/housing.tgz . This module mainly solve problems in data fetching and storing. It used Python's os, tarfile and six.moves.urlib!
 
 - EDA.py
 
