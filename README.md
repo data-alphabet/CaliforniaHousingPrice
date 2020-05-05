@@ -1,7 +1,7 @@
 # California Housing Price Data Analysis Demo
 
 ## Project Description
-This is a data analysis demo to learn the process of data analysis with **Python**. In this project, I experienced *data fetching*, *exploratory data analysis*, *feature engeneering*, *data preprocessing*, *data visulization*, *data modeling* and so on. It is really an iteresting learning experience! All the source codes own detailed notes, so you can read them easily!
+This is a data analysis demo to learn the process of data analysis with **Python**. In this project, I experienced *data fetching*, *exploratory data analysis*, *feature engeneering*, *data preprocessing*, *data visulization*, *data modeling* and so on. It is really an interesting learning experience! All the source codes own detailed notes, so you can read them easily!
 
 - 地理信息可视化.xlsx
 
